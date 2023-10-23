@@ -2711,7 +2711,7 @@
       )
     )
     (symbol "cp2102gm:cp2102gm" (in_bom yes) (on_board yes)
-      (property "Reference" "CP2102/9" (at 15.24 8.89 0)
+      (property "Reference" "U" (at 15.24 8.89 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Value" "~" (at 0 0 0)
@@ -6921,7 +6921,7 @@
       )
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "J6") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
@@ -7192,7 +7192,7 @@
       )
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "U11") (unit 1)
+          (reference "U12") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
@@ -7366,7 +7366,7 @@
       )
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "J5") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
@@ -7453,7 +7453,7 @@
       )
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "J4") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
@@ -8889,7 +8889,7 @@
     (instances
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "J3") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
@@ -12635,13 +12635,13 @@
   (symbol (lib_id "cp2102gm:cp2102gm") (at 298.45 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a72ef5df-941b-4458-94d7-c85931afe3de)
-    (property "Reference" "CP2102/1" (at 313.69 207.01 0)
+    (property "Reference" "U10" (at 313.69 207.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "~" (at 298.45 215.9 0)
+    (property "Value" "CP2102GM" (at 298.45 215.9 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 298.45 215.9 0)
+    (property "Footprint" "CP2102-GM:QFN50P500X500X100-29N" (at 298.45 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 298.45 215.9 0)
@@ -12679,7 +12679,7 @@
     (instances
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "CP2102/1") (unit 1)
+          (reference "U10") (unit 1)
         )
       )
     )
@@ -14338,7 +14338,7 @@
       )
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "J7") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
@@ -14423,7 +14423,7 @@
       )
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "J2") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
@@ -15320,7 +15320,7 @@
     (instances
       (project "lorawan_smart_air_qualityv1"
         (path "/5571130f-54bf-4bf4-8232-81b9e1a755ca"
-          (reference "U10") (unit 1)
+          (reference "U11") (unit 1)
         )
       )
       (project "Lorawan_prototype_v1.1"
